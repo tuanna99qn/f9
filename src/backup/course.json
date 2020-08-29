@@ -23,15 +23,108 @@
         "_id": {
             "$oid": "5f4adc66239eee364c7e9039"
         },
-        "deleted": false,
+        "deleted": true,
         "name": "nodejs",
         "description": "nodejs",
         "videoId": "z2f7RHgvddc",
         "level": "cow banr",
         "image": "https://img.youtube.com/vi/z2f7RHgvddc/sddefault.jpg",
         "updatedAt": {
-            "$date": "2020-08-29T22:53:26.173Z"
+            "$date": "2020-08-29T23:30:30.831Z"
         },
-        "slug": "nodejs"
+        "slug": "nodejs",
+        "deletedAt": {
+            "$date": "2020-08-29T23:30:30.831Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5f4ae467e5118749866f66dc"
+        },
+        "deleted": false,
+        "name": "HTML, CSS từ zero đến Hero",
+        "description": "Khóa học đề cao việc thực hành qua những ví dụ trong thực tế giúp học viên nhanh chóng xây dựng được giao diện website",
+        "videoId": "R6plN3FvzFY",
+        "level": "Cơ bản",
+        "image": "https://img.youtube.com/vi/R6plN3FvzFY/sddefault.jpg",
+        "updatedAt": {
+            "$date": "2020-08-29T23:27:35.174Z"
+        },
+        "slug": "html-css-tu-zero-den-hero"
+    },
+    {
+        "_id": {
+            "$oid": "5f4ae487e5118749866f66dd"
+        },
+        "deleted": false,
+        "name": "Thiết kế web responsive",
+        "description": "Khóa học này sẽ giúp bạn nắm chắc tư tưởng cốt lõi của việc xây dựng giao diện website responsive và áp dụng trong thực tế",
+        "videoId": "uz5LIP85J5Y",
+        "level": "Cơ bản",
+        "image": "https://img.youtube.com/vi/uz5LIP85J5Y/sddefault.jpg",
+        "updatedAt": {
+            "$date": "2020-08-29T23:28:07.787Z"
+        },
+        "slug": "thiet-ke-web-responsive"
+    },
+    {
+        "_id": {
+            "$oid": "5f4ae4a0e5118749866f66de"
+        },
+        "deleted": false,
+        "name": "Lập trình Javascript cơ bản",
+        "description": "Khóa học Javascript cơ bản dành cho mọi đối tượng bắt đầu học lập trình với nội dung ngắn gọn, dễ hiểu và hệ thống làm bài tập phong phú",
+        "videoId": "0SJE9dYdpps",
+        "level": "Cơ bản",
+        "image": "https://img.youtube.com/vi/0SJE9dYdpps/sddefault.jpg",
+        "updatedAt": {
+            "$date": "2020-08-29T23:28:32.725Z"
+        },
+        "slug": "lap-trinh-javascript-co-ban"
+    },
+    {
+        "_id": {
+            "$oid": "5f4ae4bce5118749866f66df"
+        },
+        "deleted": false,
+        "name": "Xây dựng web với NodeJS & ExpressJS",
+        "description": "Xây dựng web trong thực tế với NodeJS & ExpressJS với cách chia sẻ chi tiết, tận tâm, dễ hiểu và chất giọng giàu sức sống của người chia sẻ",
+        "videoId": "z2f7RHgvddc",
+        "level": "Cơ bản",
+        "image": "https://img.youtube.com/vi/z2f7RHgvddc/sddefault.jpg",
+        "updatedAt": {
+            "$date": "2020-08-29T23:29:00.834Z"
+        },
+        "slug": "xay-dung-web-voi-nodejs-and-expressjs"
+    },
+    {
+        "_id": {
+            "$oid": "5f4ae4dbe5118749866f66e0"
+        },
+        "deleted": false,
+        "name": "HTML, CSS tips",
+        "description": "Tutorials về HTML, CSS, UI, UX sẽ được tổng hợp tại khóa học này, các video có nội dung ngắn gọn, súc tích giúp học viên có thể ứng dụng ngay vào thực tế",
+        "videoId": "nB6cJh_bb1U",
+        "level": "Cơ bản",
+        "image": "https://img.youtube.com/vi/nB6cJh_bb1U/sddefault.jpg",
+        "updatedAt": {
+            "$date": "2020-08-29T23:29:31.782Z"
+        },
+        "slug": "html-css-tips"
+    },
+    {
+        "_id": {
+            "$oid": "5f4ae4fae5118749866f66e1"
+        },
+        "deleted": false,
+        "name": "[Machine learning] Ứng dụng cảnh báo khi sờ lên mặt",
+        "description": "Tutorials xây dựng ứng dụng \"Cảnh báo khi sờ tay lên mặt\" sử dụng mã nguồn mở TensorFlow cho Machine learning",
+        "videoId": "r6GWbQL-qw",
+        "level": "Cơ bản",
+        "image": "https://img.youtube.com/vi/r6GWbQL/sddefault.jpg",
+        "updatedAt": {
+            "$date": "2020-08-29T23:30:20.223Z"
+        },
+        "slug": "machine-learning-ung-dung-canh-bao-khi-so-len-mat"
     }
 ]
